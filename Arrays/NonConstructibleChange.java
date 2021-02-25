@@ -18,6 +18,7 @@ public class NonConstructibleChange {
 				numberOfCombinations += coin;
 			}
 		}
+
 		return numberOfCombinations + 1;
 	}
 }
